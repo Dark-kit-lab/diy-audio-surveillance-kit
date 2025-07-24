@@ -55,7 +55,9 @@ This project enables the creation of a wireless audio surveillance device using 
 
 ## 📚 Docs & Translations
 
-Persian translation available at [`Docs/README_FA.md`](Docs/README_FA.md)
+Persian translation available at 
+............     محتوای فارسی   ............
+[`Docs/README_FA.md`](Docs/README_FA.md)
 
 ## 📄 License
 
